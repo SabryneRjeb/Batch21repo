@@ -5,4 +5,5 @@ remote to local
 making some changes
 committing the changes
 pushing it back to
-remote repository 
+remote repository
+trying it out
